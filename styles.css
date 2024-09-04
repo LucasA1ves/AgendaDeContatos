@@ -1,0 +1,40 @@
+form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: inline-block;
+  width: 100px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border: 1px solid black;
+}
+
+th {
+  background-color: #f2f2f2;
+}
